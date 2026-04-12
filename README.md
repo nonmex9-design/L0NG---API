@@ -29,7 +29,7 @@ library_name: l0ng-api
 </div>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://github.com/nonmex9-design/L0NG---API/blob/main/LICENSE" style="margin: 2px;">
+  <a href="https://raw.githubusercontent.com/nonmex9-design/L0NG---API/refs/heads/main/LICENSE" style="margin: 2px;">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
