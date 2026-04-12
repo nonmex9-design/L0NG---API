@@ -8,22 +8,22 @@ library_name: l0ng-api
 <hr>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://github.com/nonmex9-design/L0NG---API" target="_blank" style="margin: 2px;">
+  <a href="https://l0ng.pages.dev/" target="_blank" style="margin: 2px;">
     <img alt="Homepage" src="https://img.shields.io/badge/Homepage-L0NG-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://nonmex9-design.github.io/L0NG---API" target="_blank" style="margin: 2px;">
+  <a href="https://l0ng.pages.dev/chat?new" target="_blank" style="margin: 2px;">
     <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-L0NG-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://github.com/nonmex9-design/L0NG---API/blob/main/api-docs.html" target="_blank" style="margin: 2px;">
+  <a href="https://l0ng.pages.dev/api-docs" target="_blank" style="margin: 2px;">
     <img alt="Documentation" src="https://img.shields.io/badge/📖%20Docs-API%20Reference-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://discord.gg/yourserver" target="_blank" style="margin: 2px;">
+  <a href="https://discord.gg/EcySwhb8cT" target="_blank" style="margin: 2px;">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-L0NG%20Community-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://twitter.com/l0ng_ai" target="_blank" style="margin: 2px;">
+  <a href="https://x.com/Ro_Codes" target="_blank" style="margin: 2px;">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-@l0ng__ai-white?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
