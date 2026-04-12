@@ -2,7 +2,7 @@
 library_name: l0ng-api
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nonmex9-design/L0NG---API/refs/heads/main/main/fullimage.png" width="10%" alt="L0NG" />
+  <img src="https://raw.githubusercontent.com/nonmex9-design/L0NG---API/refs/heads/main/main/fullimage.png" width="40%" alt="L0NG" />
 </div>
 
 <hr>
