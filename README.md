@@ -8,3 +8,7 @@ library_name: l0ng-api
 <hr>
 
 # L0NG has been discontinued.
+
+### L0NG is getting revived and an app is coming soon!!!!
+
+#### Regarding the app, it will be running L0NG locally on your device instead of using an API since we dont have any servers.
